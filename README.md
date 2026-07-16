@@ -88,6 +88,7 @@ You guessed the correct number in 3 attempts.
 - GUI using Java Swing or JavaFX
 
 ## 👨‍💻 Author
-
 Aritra Ghorai
+
+
 If you like this project, don't forget to ⭐ the repository!
