@@ -78,7 +78,6 @@ You guessed the correct number in 3 attempts.
 - Methods
 - User Input
 - Random Number Generation
-- Exception Handling (if used)
 
 ## 🌟 Future Improvements
 
@@ -90,6 +89,5 @@ You guessed the correct number in 3 attempts.
 
 ## 👨‍💻 Author
 
-**Your Name**
-
+Aritra Ghorai
 If you like this project, don't forget to ⭐ the repository!
