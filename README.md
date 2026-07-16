@@ -8,7 +8,7 @@ A simple console-based Number Guessing Game built using Java. The program random
 - 🎮 Interactive console gameplay
 - 📈 Hint system (Too High / Too Low)
 - 🔢 Tracks number of attempts
-- ✅ Input validation (if implemented)
+- ✅ Input validation
 - 💻 Beginner-friendly Java project
 
 ## 🛠️ Technologies Used
